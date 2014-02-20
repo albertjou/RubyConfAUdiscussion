@@ -1,4 +1,20 @@
-== Welcome to...here
+== comments.share while(ruby_conference)
+
+Share...your view on the content of what was said
+Share...your alternate perspective
+Share...your constructive feedback
+Share...your blog post about the relevant topic
+Share...whatever helps the learning experience
+
+== How to use
+
+1. Click on the event you have something to contribute.
+
+2. Leave your thoughts
+
+3. Improve on this
+
+== Why?
 
 After attending my first ever day of my first ever conference, I noticed that a lot of the knowledge sharing was a one way stream, from the speaker to the audience... and yet there are undoubtedly many skilled rubyists who might have something to share, an opposing insight to share.
 
@@ -8,13 +24,7 @@ Anyone is welcome to fork and improve, I just wanted to be able to get the ball 
 
 Please keep it collaborative :)
 
-== How to use
 
-1. Click on the event you have something to contribute.
-
-2. Leave your thoughts
-
-3. Improve on this
 
 
 
